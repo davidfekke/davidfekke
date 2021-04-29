@@ -4,7 +4,11 @@ This is Github profile page for David Fekke. David is a iOS, Android and Node.js
 
 If you are looking for David's Powerpoint and presentation slides, you find them at this [link](https://slides.com/davidfekke/).
 
+I host a Youtube channel called [The Polyglot Engineer](https://www.youtube.com/c/polyglotengineer).
+
 You can find a copy of my [Resume here](https://fek.io/resume).
+
+I also [blog](https://fek.io/blog) about a lot of the things you will find in my repos.
 
 <!--
 **davidfekke/davidfekke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
