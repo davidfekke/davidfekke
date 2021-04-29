@@ -1,4 +1,10 @@
-### Hi there 👋
+## Welcome to David Fekke's code repos on Github!!! 👋
+
+This is Github profile page for David Fekke. David is a iOS, Android and Node.js developer. He is also a Commercial Instrument rated pilot in multi and single engine aircraft. He also develops .NET, ColdFusion and Java web applications.
+
+If you are looking for David's Powerpoint and presentation slides, you find them at this [link](https://slides.com/davidfekke/).
+
+You can find a copy of my [Resume here](https://fek.io/resume).
 
 <!--
 **davidfekke/davidfekke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
